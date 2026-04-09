@@ -5,7 +5,6 @@
 ---
 <h1 align ="center">
 Hello, I'm Senning 👋
-
 </h1>
 
 <p align="center">
@@ -19,33 +18,38 @@ Hello, I'm Senning 👋
 </h3>
 
 - 💙 Life Motto：Freedom！！！
-- 🧡 清纯男高 😝
 - ❤️ Takagi Forever 
 - 💛 Someone who took up programming out of personal interest  
 - 💚 Ask me anything by email, though I might not reply in time...
 
----
-## 🏆 Trophies
+<div align="right>
+![头像](image/头像.jpg)
 
-<div align="left">
-  <img src="https://github-trophies.vercel.app/?username=senningi47&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=森柠.
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 👾 Editor
+<p align="left" dir="auto" style="display: flex; flex-wrap: wrap; gap: 8px;">
 
-<div align="left">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=senningi47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" alt="stats" />
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://code.visualstudio.com">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" style="max-width: 100%;">
+  </a>
 
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=senningi47&layout=compact&theme=tokyonight" height="165" alt="top langs" />
-</div>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jetbrains.com/idea/">
+    <img src="https://img.shields.io/badge/IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IDEA" style="max-width: 100%;">
+  </a>
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=senningi47&theme=tokyonight" alt="streak" />
-</div>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://cursor.com/cn">
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" style="max-width: 100%;">
+  </a>
 
----
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://claude.com/claude-code">
+    <img src="https://img.shields.io/badge/Claude%20Code-ff7400?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" style="max-width: 100%;">
+  </a>
+
+</p>
 
 ## 🛠️ Languages & Tools
 
@@ -74,28 +78,29 @@ Hello, I'm Senning 👋
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
 </p>
 
+---
 
-## 👾 Editor
-<p align="left" dir="auto" style="display: flex; flex-wrap: wrap; gap: 8px;">
+## 🏆 Trophies
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://code.visualstudio.com">
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" style="max-width: 100%;">
-  </a>
+<div align="left">
+  <img src="https://github-trophies.vercel.app/?username=senningi47&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</div>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jetbrains.com/idea/">
-    <img src="https://img.shields.io/badge/IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IDEA" style="max-width: 100%;">
-  </a>
+---
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://cursor.com/cn">
-    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" style="max-width: 100%;">
-  </a>
+## 📊 GitHub Stats
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://claude.com/claude-code">
-    <img src="https://img.shields.io/badge/Claude%20Code-ff7400?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" style="max-width: 100%;">
-  </a>
+<div align="left">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=senningi47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" alt="stats" />
 
-</p>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=senningi47&layout=compact&theme=tokyonight" height="165" alt="top langs" />
+</div>
 
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=senningi47&theme=tokyonight" alt="streak" />
+</div>
+
+---
 
 ## ⚡ Recent Activity
 
