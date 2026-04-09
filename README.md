@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 -->
 ## 📊 GitHub Stats
 
-![senningi47's GitHub stats](https://github-readme-stats.vercel.app/api?username=senningi47&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senningi47&layout=compact&theme=tokyonight)
+![senningi47's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=senningi47&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=senningi47&layout=compact&theme=gruvbox)
 
 ## ⚡ Recent Activity
 
