@@ -25,10 +25,6 @@
 - 💛 Someone who took up programming out of personal interest
 - 💚 Ask me anything by email, though I might not reply in time...
 
-<div align="center">
-  <img src="./image/展示图2.jpg" alt="Takagi" width="50" height="50">
-</div>
-
 ---
 
 ## 👾 Editor
