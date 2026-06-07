@@ -1,0 +1,75 @@
+
+<h2 class="sr-only">Interactive preview of a glass morphism effect on a GitHub profile banner with three intensity modes.</h2>
+
+<style>
+.mbtn {
+  flex: 1;
+  padding: 8px 0;
+  border-radius: var(--border-radius-md);
+  border: 0.5px solid var(--color-border-tertiary);
+  background: transparent;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-size: 13px;
+}
+.mbtn.on {
+  background: var(--color-background-secondary);
+  border-color: var(--color-border-secondary);
+  color: var(--color-text-primary);
+  font-weight: 500;
+}
+</style>
+
+<div style="padding: 1rem 0;">
+
+  <div style="border-radius: var(--border-radius-lg); overflow: hidden; height: 200px; position: relative; margin-bottom: 14px;">
+
+    <div style="position: absolute; inset: 0; background: #0d1020;">
+      <div style="position: absolute; width: 260px; height: 260px; border-radius: 50%; background: #271660; top: -120px; right: -10px;"></div>
+      <div style="position: absolute; width: 180px; height: 180px; border-radius: 50%; background: #063350; bottom: -70px; left: 60px;"></div>
+      <div style="position: absolute; width: 140px; height: 140px; border-radius: 50%; background: #1a2c10; top: 30px; left: 38%;"></div>
+      <div style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-size: 11px; letter-spacing: 5px; color: rgba(255,255,255,0.05); font-family: var(--font-mono);">展示图2.jpg</div>
+    </div>
+
+    <div id="gl" style="position: absolute; inset: 0; backdrop-filter: blur(12px) saturate(1.5); -webkit-backdrop-filter: blur(12px) saturate(1.5); background: rgba(255,255,255,0.09); border-top: 1px solid rgba(255,255,255,0.22);">
+      <div style="position: absolute; inset: 0; display: flex; align-items: center; padding: 0 36px; gap: 20px;">
+        <div style="width: 68px; height: 68px; border-radius: 50%; background: rgba(255,255,255,0.09); border: 1px solid rgba(255,255,255,0.2); display: flex; align-items: center; justify-content: center; font-size: 28px; flex-shrink: 0;">🍋</div>
+        <div>
+          <div style="color: rgba(255,255,255,0.95); font-size: 22px; font-weight: 500; line-height: 1; font-family: var(--font-sans);">Senning</div>
+          <div style="color: rgba(255,255,255,0.42); font-size: 12px; margin-top: 7px; font-family: var(--font-mono);">Freedom！！！ · Takagi Forever ❤️</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div style="display: flex; gap: 8px; margin-bottom: 18px;">
+    <button class="mbtn" onclick="go('s',this)">浅淡</button>
+    <button class="mbtn on" onclick="go('m',this)">磨砂</button>
+    <button class="mbtn" onclick="go('h',this)">厚霜</button>
+  </div>
+
+  <div style="padding: 14px 16px; border-radius: var(--border-radius-md); border: 0.5px solid var(--color-border-tertiary); background: var(--color-background-secondary); font-size: 13px; color: var(--color-text-secondary); line-height: 1.85;">
+    <span style="color: var(--color-text-primary);">如何导出到 GitHub</span><br>
+    GitHub README 不支持 CSS blur，效果需预渲染成图片。打开下面的 banner.html（放在仓库根目录），它会把你的真实图片叠上玻璃效果，用浏览器截图保存为 <span style="font-family: var(--font-mono); font-size: 12px; color: var(--color-text-primary);">image/banner.jpg</span>，README 里用 <span style="font-family: var(--font-mono); font-size: 12px; color: var(--color-text-primary);">width="100%"</span> 铺满即可。
+  </div>
+
+</div>
+
+<script>
+var c = {
+  s: [5,  'rgba(255,255,255,0.05)', 'rgba(255,255,255,0.13)'],
+  m: [12, 'rgba(255,255,255,0.09)', 'rgba(255,255,255,0.22)'],
+  h: [22, 'rgba(255,255,255,0.17)', 'rgba(255,255,255,0.32)']
+};
+function go(k, el) {
+  var m = c[k], g = document.getElementById('gl');
+  g.style.backdropFilter = 'blur(' + m[0] + 'px) saturate(1.5)';
+  g.style.webkitBackdropFilter = 'blur(' + m[0] + 'px) saturate(1.5)';
+  g.style.background = m[1];
+  g.style.borderTop = '1px solid ' + m[2];
+  document.querySelectorAll('.mbtn').forEach(function(b) { b.classList.remove('on'); });
+  el.classList.add('on');
+}
+</script>
