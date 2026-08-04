@@ -9,10 +9,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CI'm+Senning!Welcome+to+my+profile" alt="Typing SVG" /></a>
 
 <p>
-  <img src="https://img.shields.io/badge/性格-顶级i人%7Cbut%20super%20good-blue?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/爱好-Game%7CSleep%7CBasketball%7CMusic%7CAnime-bd60e7?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/食物-好多爱吃的ヽ(￣▽￣)و-red?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/水果-柠%20檬%20🍋-yellow?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Personality-I&E%7Cbut%20super%20good-blue?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hobby-Game%7CSleep%7CBasketball%7CMusic%7CAnime-bd60e7?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gmail-senningi47@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=red"/>
 </p>
 
@@ -85,10 +83,6 @@
 <div align="left">
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=senningi47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" alt="stats" />
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=senningi47&layout=compact&theme=tokyonight" height="165" alt="top langs" />
-</div>
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=senningi47&theme=tokyonight" alt="streak" />
 </div>
 
 ---
